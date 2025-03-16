@@ -243,3 +243,13 @@
 		  top: 0;
 		  border-radius: 10px;
 		}
+
+header {
+  width: 90%;
+  background-color: powderblue;
+}
+
+main {
+	width: 90%;
+  	background-color: powderblue;
+}
