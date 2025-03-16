@@ -245,16 +245,17 @@
 		}
 
 header {
-	width: 90%;         
+	width: 95%;         
 	margin: 0 auto; 
 	justify-content: center;
 	text-align: center;
+	background-color: yellow;
 }
 
 main {
-	width: 70%;
+	width: 80%;
 	margin: 0 auto;  
 	justify-content: center;
 	text-align: center;
-  	background-color: yellow;
+  	background-color: blue;
 }
