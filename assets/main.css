@@ -243,17 +243,3 @@
 		  top: 0;
 		  border-radius: 10px;
 		}
-
-#wrapper {
-	-webkit-overflow-scrolling: touch;
-	align-items: center;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	min-height: var(--viewport-height);
-	overflow: hidden;
-	position: relative;
-	z-index: 2;
-}
-
-
