@@ -1,5 +1,4 @@
 
-
 	@supports not (-webkit-touch-callout: none) {
 	  /* CSS for other than iOS devices */ 
 		body {
@@ -94,7 +93,7 @@
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		
-		text-align: left;
+		text-align: center;
 		font-family: 'Bakbak One';
 		font-size: 20px;
 		}
@@ -103,6 +102,9 @@
 		  background-color: black;
 		}
 
+details > summary {
+	margin-left: 100px;
+}
 		table {
 		border-collapse: seperate;
 		border-spacing: 0px;
@@ -155,6 +157,16 @@
 		-webkit-text-fill-color: transparent;
 		font-family: 'Bakbak One';
 		font-size: 18px;
+		}
+
+		s {
+		background: url("https://i.ibb.co/SX2p5LLP/Gtw-THLv-WMAA6-Gm-S.jpg");
+		background-size: cover;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		font-family: 'Bakbak One';
+		font-size: 18px;
+		text-decoration: none;
 		}
 
 		input[type='checkbox'] {
